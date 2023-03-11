@@ -1,0 +1,18 @@
+__pycache__
+masked_autoencoder_transfer_learning.py
+generate_plots.py
+generate_plots_corrupted_files.py
+combine_bar_charts.py
+create_fixed_mat_files.py
+fix_corrupted_files.py
+tensorboard_logs
+parse_log_files.py
+#ignore all directories beginning with JW
+model_outs/AFS/trimmed/no_overlap/JW*
+model_outs/AFS/trimmed/no_overlap/spkr_independent
+model_outs/AFS/trimmed/overlap/no_pretrain/JW*
+model_outs/AFS/trimmed/overlap/pretrain/Original_Speakers/JW*
+model_outs/AFS/trimmed/overlap/pretrain/resampled/JW*
+model_outs/AFS/trimmed/overlap/pretrain/sparse_speakers/JW*
+model_outs/AFS/trimmed/overlap/pretrain/sparse_speakers/resampled_data/JW*
+model_outs/AFS/trimmed/overlap/pretrain/Original_Speakers/spkr_independent/

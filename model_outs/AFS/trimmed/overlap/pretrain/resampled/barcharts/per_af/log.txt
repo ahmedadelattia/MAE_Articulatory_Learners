@@ -1,0 +1,1320 @@
+SPEAKER: JW25 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.993, 0.643) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.993, 0.694) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.996, 0.670) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.996, 0.648) for AF 5 
+Masking (1, 4, 5) results in correlation (0.996, 0.689) for AF 5 
+Masking (3, 4, 5) results in correlation (0.993, 0.575) for AF 5 
+Masking (4, 5, 6) results in correlation (0.996, 0.671) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.997, 0.692) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.997, 0.690) for AF 5 
+Masking (1, 4, 5) results in correlation (0.997, 0.664) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.622) for AF 5 
+Masking (3, 4, 5) results in correlation (0.995, 0.594) for AF 5 
+Masking (4, 5, 6) results in correlation (0.997, 0.696) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.673) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.997, 0.686) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.997, 0.677) for AF 5 
+Masking (1, 4, 5) results in correlation (0.997, 0.679) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.609) for AF 5 
+Masking (3, 4, 5) results in correlation (0.996, 0.592) for AF 5 
+Masking (4, 5, 6) results in correlation (0.997, 0.682) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.670) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.997, 0.697) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.997, 0.689) for AF 5 
+Masking (1, 4, 5) results in correlation (0.997, 0.652) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.602) for AF 5 
+Masking (3, 4, 5) results in correlation (0.995, 0.577) for AF 5 
+Masking (4, 5, 6) results in correlation (0.997, 0.678) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.676) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 4, 5) results in correlation (0.996, 0.672) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.634) for AF 5 
+Masking (3, 4, 5) results in correlation (0.995, 0.624) for AF 5 
+Masking (4, 5, 6) results in correlation (0.996, 0.684) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (2, 4, 5) results in correlation (0.996, 0.642) for AF 5 
+Masking (3, 4, 5) results in correlation (0.995, 0.609) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 4, 5) results in correlation (0.997, 0.689) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.603) for AF 5 
+Masking (3, 4, 5) results in correlation (0.996, 0.614) for AF 4 
+Masking (3, 4, 5) results in correlation (0.996, 0.581) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.997, 0.685) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.997, 0.697) for AF 5 
+Masking (1, 4, 5) results in correlation (0.997, 0.675) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.616) for AF 5 
+Masking (3, 4, 5) results in correlation (0.996, 0.603) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.690) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (2, 4, 5) results in correlation (0.996, 0.633) for AF 5 
+Masking (3, 4, 5) results in correlation (0.996, 0.610) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.685) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW28 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.989, 0.545) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW28 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.987, 0.652) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW28 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.988, 0.683) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.630) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.645) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.676) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.664) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.651) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.673) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.686, 0.980) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.684, 0.976) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.684, 0.976) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.683, 0.977) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW34 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.995, 0.696) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW34 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.994, 0.689) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.561, 0.970) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.583, 0.972) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.572, 0.967) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.561, 0.970) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.583, 0.972) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.572, 0.967) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.594, 0.969) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.566, 0.963) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW11 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (6, 7) results in correlation (0.657, 0.970) for AF 6 
+Testing With Masking 3 
+Masking (0, 6, 7) results in correlation (0.658, 0.970) for AF 6 
+Masking (1, 6, 7) results in correlation (0.480, 0.959) for AF 6 
+Masking (2, 6, 7) results in correlation (0.651, 0.967) for AF 6 
+Masking (3, 6, 7) results in correlation (0.665, 0.968) for AF 6 
+Masking (4, 6, 7) results in correlation (0.647, 0.969) for AF 6 
+Masking (5, 6, 7) results in correlation (0.647, 0.969) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW12 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.985, 0.656) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW12 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.985, 0.676) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW12 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.990, 0.686) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW12 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.985, 0.631) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW15 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.639, 0.848) for AF 6 
+Masking (3, 4, 5) results in correlation (0.990, 0.647) for AF 4 
+Masking (3, 4, 5) results in correlation (0.994, 0.547) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW15 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (1, 6) results in correlation (0.695, 0.909) for AF 6 
+Testing With Masking 3 
+Masking (0, 1, 6) results in correlation (0.679, 0.890) for AF 6 
+Masking (0, 6, 7) results in correlation (0.678, 0.882) for AF 6 
+Masking (1, 2, 6) results in correlation (0.692, 0.915) for AF 6 
+Masking (1, 4, 6) results in correlation (0.695, 0.906) for AF 6 
+Masking (1, 5, 6) results in correlation (0.671, 0.904) for AF 6 
+Masking (1, 6, 7) results in correlation (0.528, 0.834) for AF 6 
+Masking (3, 4, 5) results in correlation (0.991, 0.647) for AF 4 
+Masking (3, 4, 5) results in correlation (0.993, 0.595) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW15 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.631, 0.861) for AF 6 
+Masking (3, 4, 5) results in correlation (0.993, 0.641) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW15 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.613, 0.864) for AF 6 
+Masking (3, 4, 5) results in correlation (0.994, 0.630) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW15 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.599, 0.851) for AF 6 
+Masking (3, 4, 5) results in correlation (0.994, 0.612) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW15 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (0, 1, 6) results in correlation (0.689, 0.898) for AF 6 
+Masking (1, 6, 7) results in correlation (0.635, 0.854) for AF 6 
+Masking (3, 4, 5) results in correlation (0.994, 0.692) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW16 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.992, 0.672) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW16 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.992, 0.688) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW16 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.991, 0.672) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW18 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 2, 6) results in correlation (0.688, 0.984) for AF 6 
+Masking (3, 4, 5) results in correlation (0.997, 0.635) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW18 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.681, 0.958) for AF 6 
+Masking (3, 4, 5) results in correlation (0.997, 0.656) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW18 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (1, 6) results in correlation (0.672, 0.987) for AF 6 
+Testing With Masking 3 
+Masking (0, 1, 6) results in correlation (0.600, 0.985) for AF 6 
+Masking (1, 2, 6) results in correlation (0.578, 0.985) for AF 6 
+Masking (1, 3, 6) results in correlation (0.695, 0.988) for AF 6 
+Masking (1, 5, 6) results in correlation (0.660, 0.987) for AF 6 
+Masking (1, 6, 7) results in correlation (0.667, 0.963) for AF 6 
+Masking (3, 4, 5) results in correlation (0.997, 0.689) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW18 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (0, 1, 6) results in correlation (0.695, 0.983) for AF 6 
+Masking (1, 6, 7) results in correlation (0.632, 0.957) for AF 6 
+Masking (3, 4, 5) results in correlation (0.997, 0.654) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW19 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.619, 0.939) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW19 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.682, 0.956) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW19 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (1, 6) results in correlation (0.694, 0.975) for AF 6 
+Testing With Masking 3 
+Masking (0, 1, 6) results in correlation (0.690, 0.975) for AF 6 
+Masking (1, 2, 6) results in correlation (0.659, 0.973) for AF 6 
+Masking (1, 4, 6) results in correlation (0.694, 0.975) for AF 6 
+Masking (1, 5, 6) results in correlation (0.697, 0.977) for AF 6 
+Masking (1, 6, 7) results in correlation (0.581, 0.928) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW19 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (1, 6) results in correlation (0.645, 0.972) for AF 6 
+Testing With Masking 3 
+Masking (0, 1, 6) results in correlation (0.675, 0.974) for AF 6 
+Masking (1, 2, 6) results in correlation (0.655, 0.966) for AF 6 
+Masking (1, 3, 6) results in correlation (0.652, 0.975) for AF 6 
+Masking (1, 4, 6) results in correlation (0.664, 0.974) for AF 6 
+Masking (1, 5, 6) results in correlation (0.652, 0.973) for AF 6 
+Masking (1, 6, 7) results in correlation (0.584, 0.937) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW24 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.985, 0.606) for AF 4 
+Masking (3, 4, 5) results in correlation (0.985, 0.532) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW24 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.982, 0.541) for AF 4 
+Masking (3, 4, 5) results in correlation (0.983, 0.467) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW24 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.982, 0.516) for AF 4 
+Masking (3, 4, 5) results in correlation (0.985, 0.427) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW24 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.979, 0.532) for AF 4 
+Masking (3, 4, 5) results in correlation (0.980, 0.479) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW24 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.982, 0.618) for AF 4 
+Masking (3, 4, 5) results in correlation (0.982, 0.552) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW24 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.678, 0.927) for AF 6 
+Masking (2, 3, 5) results in correlation (0.833, 0.694) for AF 2 
+Masking (3, 4, 5) results in correlation (0.979, 0.579) for AF 4 
+Masking (3, 4, 5) results in correlation (0.980, 0.476) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 2 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.997, 0.665) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.997, 0.691) for AF 5 
+Masking (2, 4, 5) results in correlation (0.997, 0.666) for AF 5 
+Masking (3, 4, 5) results in correlation (0.993, 0.672) for AF 4 
+Masking (3, 4, 5) results in correlation (0.993, 0.465) for AF 5 
+Masking (4, 5, 6) results in correlation (0.997, 0.696) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.993, 0.563) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.993, 0.650) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.993, 0.643) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.993, 0.694) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW25 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.996, 0.670) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.996, 0.648) for AF 5 
+Masking (1, 4, 5) results in correlation (0.996, 0.689) for AF 5 
+Masking (3, 4, 5) results in correlation (0.993, 0.575) for AF 5 
+Masking (4, 5, 6) results in correlation (0.996, 0.671) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.997, 0.697) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.997, 0.689) for AF 5 
+Masking (1, 4, 5) results in correlation (0.997, 0.652) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.602) for AF 5 
+Masking (3, 4, 5) results in correlation (0.995, 0.577) for AF 5 
+Masking (4, 5, 6) results in correlation (0.997, 0.678) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.676) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 4, 5) results in correlation (0.996, 0.672) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.634) for AF 5 
+Masking (3, 4, 5) results in correlation (0.995, 0.624) for AF 5 
+Masking (4, 5, 6) results in correlation (0.996, 0.684) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (2, 4, 5) results in correlation (0.996, 0.642) for AF 5 
+Masking (3, 4, 5) results in correlation (0.995, 0.609) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 4, 5) results in correlation (0.997, 0.689) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.603) for AF 5 
+Masking (3, 4, 5) results in correlation (0.996, 0.614) for AF 4 
+Masking (3, 4, 5) results in correlation (0.996, 0.581) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Masking (4, 5) results in correlation (0.997, 0.685) for AF 5 
+Testing With Masking 3 
+Masking (0, 4, 5) results in correlation (0.997, 0.697) for AF 5 
+Masking (1, 4, 5) results in correlation (0.997, 0.675) for AF 5 
+Masking (2, 4, 5) results in correlation (0.996, 0.616) for AF 5 
+Masking (3, 4, 5) results in correlation (0.996, 0.603) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.690) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW27 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (2, 4, 5) results in correlation (0.996, 0.633) for AF 5 
+Masking (3, 4, 5) results in correlation (0.996, 0.610) for AF 5 
+Masking (4, 5, 7) results in correlation (0.997, 0.685) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW28 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.989, 0.545) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW28 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.987, 0.652) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW28 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.988, 0.683) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.630) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.645) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.676) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.664) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.651) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW30 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.996, 0.673) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.686, 0.980) for AF 6 
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.684, 0.976) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 6 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.684, 0.976) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW31 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.683, 0.977) for AF 6 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW34 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.995, 0.696) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW34 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.994, 0.689) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW37 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.995, 0.651) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW37 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.995, 0.670) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW37 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.995, 0.647) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW37 
+MODEL: Masking up to 5 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.994, 0.653) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW37 
+MODEL: Masking up to 7 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.994, 0.683) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW37 
+MODEL: Masking up to 8 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.991, 0.694) for AF 4 
+Masking (3, 4, 5) results in correlation (0.991, 0.631) for AF 5 
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+Testing Model Done.
+######################
+SPEAKER: JW40 
+MODEL: Masking up to 3 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (3, 4, 5) results in correlation (0.993, 0.581) for AF 5 
+Testing Model Done.
+######################
+SPEAKER: JW40 
+MODEL: Masking up to 4 
+
+Testing With Masking 1 
+Testing With Masking 2 
+Testing With Masking 3 
+Masking (1, 6, 7) results in correlation (0.667, 0.940) for AF 6 
+Testing Model Done.
+######################
