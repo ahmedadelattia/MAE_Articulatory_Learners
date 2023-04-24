@@ -1,11 +1,12 @@
 import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' 
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 os.environ['TF_GPU_THREAD_MODE'] = 'gpu_private'
 import tensorflow as tf
-from tensorflow.keras import layers
-from tensorflow.keras.layers import Bidirectional, GRU, Dense, Dropout, TimeDistributed, BatchNormalization
-from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
-from tensorflow.keras import backend as K
+from tensorflow import keras as keras
+from keras import layers
+from keras.layers import Bidirectional, GRU, Dense, Dropout, TimeDistributed, BatchNormalization
+from keras.callbacks import EarlyStopping, ModelCheckpoint
+from keras import backend as K
 import numpy as np
 from time import time
 from tqdm import tqdm
@@ -305,7 +306,7 @@ if __name__ == '__main__':
             model.enable_masking = False
             if pretrain_from_scratch:
                 print("PRETRAINING")
-                model.fit(PTs_train, PTs_train, batch_size=32, epochs=10000, verbose = 0, callbacks=[earlystop,tboard_callback], validation_data=(PTs_test, PTs_test))
+                model.fit(PTs_train, PTs_train, batch_size=32, epochs=10000, verbose = 0, callbacks=[earlystop, pretraining_checkpoints, tboard_callback], validation_data=(PTs_test, PTs_test))
             else: 
                 model(PTs_test)
                 model.load_weights(f"././model_outs/AFS/trimmed/new_testset-overlap/pretrain/resampled/{spkr}/MAE_pretrained/MAE_pretrained_{spkr}.tf")
@@ -321,7 +322,7 @@ if __name__ == '__main__':
             pretrain_log = f"\nCorrelation Across X axis : {corr_avg_x} Average correlation across X axis: {avg_corr_x}"
             pretrain_log += f"\nCorrelation Across Y axis : {corr_avg_y} Average correlation across Y axis: {avg_corr_y}"
             print(pretrain_log)
-        for num_masked_PTs in range(1,9):
+        for num_masked_PTs in range(3,5):
             st_time = time()
             model_name = f"MAE_Trained_on_upto_{num_masked_PTs}_AFs"
             model_dir = f"./model_outs/AFS/trimmed/new_testset-overlap/pretrain/resampled/{spkr}/{model_name}"
@@ -342,7 +343,7 @@ if __name__ == '__main__':
 
             model.enable_masking = True    
             model.compile("adam",loss = "mae", metrics =  [model.correlation])   
-            history = model.fit(PTs_train, PTs_train, batch_size=32, epochs=10000, verbose = 0, callbacks=[earlystop], validation_data=(PTs_test, PTs_test))
+            history = model.fit(PTs_train, PTs_train, batch_size=32, epochs=10000, verbose = 0, callbacks=[earlystop, checkpoints], validation_data=(PTs_test, PTs_test))
            
             print("TRAINING COMPLETE")
             model(PTs_test)
