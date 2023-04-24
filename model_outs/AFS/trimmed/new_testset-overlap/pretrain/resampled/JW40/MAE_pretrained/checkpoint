@@ -1,0 +1,2 @@
+model_checkpoint_path: "MAE_pretrained_JW40.tf"
+all_model_checkpoint_paths: "MAE_pretrained_JW40.tf"

@@ -1,0 +1,4 @@
+corrupted_count: 2503
+non_corrupted_count: 2330
+total: 4833
+corrupted percentage: 0.5178977860542107

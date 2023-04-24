@@ -1,0 +1,2 @@
+model_checkpoint_path: "MAE_Trained_on_upto_3_AFs.tf"
+all_model_checkpoint_paths: "MAE_Trained_on_upto_3_AFs.tf"
