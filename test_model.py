@@ -108,7 +108,8 @@ def test_model_by_af(model, afs_test, model_dir, is_limiting = False):
         log_dir = "/".join(model_dir.split("/")[:-2]) + f"/barcharts/per_af/limiting"
     else:
         log_dir = "/".join(model_dir.split("/")[:-2]) + f"/barcharts/per_af/"
-
+    if not os.path.isdir(log_dir):
+        os.makedirs(log_dir)
     log = []
     log.append(f"SPEAKER: {spkr} \n")
     log.append(f"MODEL: Masking up to {num_masked_afs_max} \n\n")
@@ -348,9 +349,12 @@ def test_on_corrupted_files_per_af(model, model_dir, is_limiting= False):
         log_dir = "/".join(model_dir.split("/")[:-2]) + f"/barcharts/per_af/limiting"
     else:
         log_dir = "/".join(model_dir.split("/")[:-2]) + f"/barcharts/per_af/"
+    if not os.path.isdir(log_dir):
+        os.makedirs(log_dir)
     with open(f'{log_dir}/avg_min_max.txt', 'a') as f:
         f.write(f"{spkr}: Masking up to {num_masked_afs_max}.\n")
-
+    if not os.path.isdir(log_dir):
+        os.makedirs(log_dir)
     log = []
     log.append(f"SPEAKER: {spkr} \n")
     log.append(f"MODEL: Masking up to {num_masked_afs_max} \n\n")
